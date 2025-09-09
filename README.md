@@ -44,18 +44,18 @@
 
 ## Demonstração da tela
 
-<!--
+
 <div align="center">
-  <img src="/src/assets/tela_print.PNG" 
-  width="600px"/>
+  <img src="src/assets/newscreen.png" 
+  width="700px">
    <em>Painel principal do Crypto Full Pricer</em>
 </div>
--->
 
+<!--
 <div align="center">
-<img src="src/assets/newscreen.png" width="700px"/>
+<img src="src/assets/newscreen.png" width="700px">
 </div>
-
+-->
 ---
 
 ## Como Rodar o Projeto Localmente
