@@ -45,7 +45,7 @@
 ## Demonstração da tela
 
 <div align="center">
-  <img src="src/assets/newscreen.png" 
+  <img src="src/assets/tela_print.PNG" 
   width="500px">
    <em>Painel principal</em>
 </div>
