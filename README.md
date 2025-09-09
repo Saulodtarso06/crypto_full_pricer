@@ -44,9 +44,16 @@
 
 ## Demonstração da tela
 
+<!--
 <div align="center">
-  <img src="/src/assets/tela_print.JPG" alt="Painel principal" width="600"/>
+  <img src="/src/assets/tela_print.PNG" 
+  width="600px"/>
    <em>Painel principal do Crypto Full Pricer</em>
+</div>
+-->
+
+<div align="center">
+<img src="src/assets/tela_print.PNG" width="600px"/>
 </div>
 
 ---
