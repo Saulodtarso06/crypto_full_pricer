@@ -23,7 +23,7 @@
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Frontend
 - **React.js**
@@ -45,14 +45,13 @@
 ## Demonstração da tela
 
 <div align="center">
-  <img src="/src/assets/tela_print.PNG "width="600"/>
-  <br>
-  <em>Painel principal do Crypto Full Pricer</em>
+  <img src="/src/assets/tela_print.JPG" alt="Painel principal" width="600"/>
+   <em>Painel principal do Crypto Full Pricer</em>
 </div>
 
 ---
 
-## 🚀 Como Rodar o Projeto Localmente
+## Como Rodar o Projeto Localmente
 
 ### Pré-requisitos
 
@@ -91,7 +90,7 @@ crypto-full-pricer/
 └── README.md
 ```
 ---
-## 🔧 Customização
+## Customização
 Para adicionar mais moedas, edite o array de símbolos no arquivo de configuração (src/services/config.js).
 
 Para alterar a API, modifique fetchPrices() no serviço de dados.
@@ -99,9 +98,7 @@ Para alterar a API, modifique fetchPrices() no serviço de dados.
 ---
 ### Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
-### Scripts Disponíveis
-
-No diretório do projeto execute o seguinte comando:
+### Scripts Disponíveis para rodar no diretório do projeto:
 
 ### `npm start`
 
@@ -137,40 +134,11 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você não precisa usar `eject`. O conjunto de recursos selecionados é adequado para implantações de pequeno e médio porte, e você não deve se sentir obrigado a usá-lo. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para usá-la.
 
-## Saiba Mais
-
-Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
-
-Para aprender React, confira a [documentação do React](https://reactjs.org/).
-
-### Divisão de Código
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analisando o Tamanho do Pacote
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Criando um Aplicativo Web Progressivo
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Configuração Avançada
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Implantação
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` falha ao minificar
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
----
-
 ## Autor do projeto
 Saulo de Tarso.N - Desenvolvedor Fullstack.
 
 🔗Linkedin: https://www.linkedin.com/in/saulo-de-tarso-8a2b00133/
 
 📧 saulo.detarso06@yahoo.com.br
+
+⚠ Este projeto foi desenvolvido com objetivo didáticos, use com responbilidade !!!.
