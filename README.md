@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="src/assets/newscreen.png" 
-  width="700px">
+  width="500px">
    <em>Painel principal</em>
 </div>
 
