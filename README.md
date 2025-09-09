@@ -53,7 +53,7 @@
 -->
 
 <div align="center">
-<img src="src/assets/tela_print.PNG" width="700px"/>
+<img src="src/assets/newscreen.png" width="700px"/>
 </div>
 
 ---
