@@ -44,18 +44,12 @@
 
 ## Demonstração da tela
 
-
 <div align="center">
   <img src="src/assets/newscreen.png" 
   width="700px">
-   <em>Painel principal do Crypto Full Pricer</em>
+   <em>Painel principal</em>
 </div>
 
-<!--
-<div align="center">
-<img src="src/assets/newscreen.png" width="700px">
-</div>
--->
 ---
 
 ## Como Rodar o Projeto Localmente
@@ -69,7 +63,7 @@
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/crypto-full-pricer.git
+git clone https://github.com/Saulodtarso06/crypto_full_pricer.git
 
 # 2. Acesse o diretório do projeto
 cd crypto-full-pricer
