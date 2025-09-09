@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="src/assets/tela_print.PNG" 
-  width="500px">
+  width="1280px">
    <em>Painel principal</em>
 </div>
 
