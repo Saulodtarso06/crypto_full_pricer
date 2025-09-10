@@ -18,7 +18,6 @@
 - 🔍 Filtros por nome, valor e variação
 - 📂 Botão de "Selecionar todas / nenhuma"
 - 📤 Exportação para Excel (.xlsx) e CSV
-- 📧 Notificações por e-mail (opcional)
 - 💡 Suporte a múltiplas moedas (personalizável)
 
 ---
@@ -27,18 +26,23 @@
 
 ### Frontend
 - **React.js**
-- **Chart.js** ou **Recharts**
+- **Chart.js** 
 - **Bootstrap 5**
-- HTML5 + CSS3 + JavaScript (ES6)
+- **HTML5 / CSS3 / JavaScript**
 
-### Backend (opcional)
+### Backend
 - **Node.js + Express** (para APIs locais ou controle de autenticação)
-- Integração com **CoinGecko API** ou outra API pública de cripto
+- Integração com **CoinGecko API** e demais API's públicas de criptomoedas.89
 
-### Extras
 - `xlsx` para exportação de planilhas
-- `emailjs` ou `nodemailer` para notificações por e-mail
 - `dotenv` para variáveis sensíveis
+
+---
+
+### Pré-requisitos
+
+- Node.js v16+
+- npm ou yarn
 
 ---
 
@@ -53,11 +57,6 @@
 ---
 
 ## Como Rodar o Projeto Localmente
-
-### Pré-requisitos
-
-- Node.js v16+
-- npm ou yarn
 
 ### Passos
 
@@ -91,7 +90,8 @@ crypto-full-pricer/
 └── README.md
 ```
 ---
-## Customização
+## Customizações possíveis
+
 Para adicionar mais moedas, edite o array de símbolos no arquivo de configuração (src/services/config.js).
 
 Para alterar a API, modifique fetchPrices() no serviço de dados.
